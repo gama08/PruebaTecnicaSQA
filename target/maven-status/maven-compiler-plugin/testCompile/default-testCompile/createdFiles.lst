@@ -1,0 +1,14 @@
+stepdefinitions\AddProductCarStepDefinitions.class
+runners\AddProductCarTest.class
+runners\CreateUserTest.class
+runners\CheckProductAddedToCartTest.class
+runners\ListUserTest.class
+stepdefinitions\DeleteUserStepDefinitions.class
+stepdefinitions\ListUserStepDefinitions.class
+stepdefinitions\UpdateUserStepDefinitions.class
+stepdefinitions\AcknowledgmentsStepDefinitions.class
+stepdefinitions\CheckProductAddedToCartStepDefinitions.class
+runners\AcknowledgmentsTest.class
+runners\UpdateUserTest.class
+runners\DeleteUserTest.class
+stepdefinitions\CreateUserStepDefinitions.class
